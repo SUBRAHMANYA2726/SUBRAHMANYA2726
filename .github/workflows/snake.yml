@@ -1,0 +1,47 @@
+name: Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # runs daily at 06:00 UTC
+  workflow_dispatch:        # allow manual triggers
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Set up Python (needed by the snake action)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11
+
+      - name: Install contribution‑snake
+        run: pip install gh‑contribution‑snake
+
+      - name: Generate SVG
+        run: |
+          python - <<'PY'
+          import os, sys
+          from gh_contribution_snake.snake import create_snake
+          create_snake(
+              username="SUBRAHMANYA2726",
+              output_file="assets/images/contribution-snake.svg",
+              hide_non_contributors=True,
+              line_color='#a6c277',
+              bg_color='#2d3238',
+              block_color='#484d54',
+              block_size=8,
+          )
+          PY
+
+      - name: Commit new snake SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/images/contribution-snake.svg
+          git commit -m "🐍 Update contribution snake"
+          git push
