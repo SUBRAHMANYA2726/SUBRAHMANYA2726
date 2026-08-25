@@ -1,46 +1,39 @@
-name: Contribution Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # runs daily at 06:00 UTC
-  workflow_dispatch:        # allow manual triggers
+    - cron: '0 0 * * *'   # runs daily at UTC midnight
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          python-version: '3.11'
+          github_user_name: SUBRAHMANYA2726
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Install contribution‑snake
-        run: pip install gh‑contribution‑snake
-
-      - name: Generate SVG
+      - name: Commit generated snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python - <<'PY'
-          from gh_contribution_snake.snake import create_snake
-          create_snake(
-              username="SUBRAHMANYA2726",
-              output_file="assets/images/contribution-snake.svg",
-              hide_non_contributors=True,
-              line_color='#a6c277',
-              bg_color='#2d3238',
-              block_color='#484d54',
-              block_size=8,
-          )
-          PY
-
-      - name: Commit new snake SVG
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/images/contribution-snake.svg
-          git commit -m "🐍 Update contribution snake"
+          git config --global user.email "actions@github.com"
+          git config --global user.name "github-actions"
+          mkdir -p assets/images
+          cp dist/github-contribution-grid-snake.svg assets/images/contribution-snake.svg
+          cp dist/github-contribution-grid-snake-dark.svg assets/images/contribution-snake-dark.svg
+          git add assets/images/contribution-snake.svg assets/images/contribution-snake-dark.svg
+          git commit -m "🐍 Update contribution snake SVG"
           git push
