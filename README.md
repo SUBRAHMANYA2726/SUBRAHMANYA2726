@@ -5,7 +5,7 @@
 -->
 
 <!-- ---------------------------------------------------------
-     HERO – animated typing SVG
+     ANIMATED HERO – typing + GIF
 ---------------------------------------------------------- -->
 <div align="center">
 
@@ -19,7 +19,7 @@
     AI/ML Developer | Full Stack Developer | Researcher | Building Intelligent Solutions
   </h3>
 
-  <!-- Typing animation – readme‑typing.vercel.app produces a real animated SVG that cycles -->
+  <!-- Typing animation – readme‑typing.vercel.app cycles the roles -->
   <a href="https://github.com/SUBRAHMANYA2726">
     <img
       src="https://readme-typing.vercel.app?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=FF6B6B&center=true&random=false&width=435&height=70&lines=AI%2FML%20Developer%0AFull%20Stack%20Developer%0AMachine%20Learning%20Researcher%0A%22AI%22%20Engineer%0ASoftware%20Developer"
@@ -28,7 +28,17 @@
     />
   </a>
 
-  <!-- Social buttons – shields.io badges (animated GIFs where applicable) -->
+  <!-- Professional animated hero GIF -->
+  <a href="https://github.com/SUBRAHMANYA2726" target="_blank">
+    <img
+      src="https://media.giphy.com/media/l0HlBWGx0Z5lqG5VK/giphy.gif"
+      width="120"
+      alt="Hero GIF"
+      style="vertical-align:middle; margin-left:1rem;"
+    />
+  </a>
+
+  <!-- Social buttons – shields.io badges -->
   <div style="margin-top:1rem;">
     <a href="https://github.com/SUBRAHMANYA2726" style="margin-right:1rem;">
       <img
@@ -83,18 +93,16 @@ I am currently open to collaborations on AI/ML projects, research initiatives, a
 ---
 
 <!-- ---------------------------------------------------------
-     CURRENT FOCUS
+     WHAT I BUILD
 ---------------------------------------------------------- -->
-## 🎯 Current Focus
+## 🛠️ What I Build
 
-- **Artificial Intelligence**
-- **Machine Learning**
-- **Deep Learning**
-- **Computer Vision**
-- **Generative AI**
-- **Full Stack Development**
-- **AI‑powered applications**
-- **Research and experimentation**
+- **🤖 AI & Machine Learning** – building predictive models, Generative AI, and research experiments.
+- **🧠 Computer Vision** – object detection, image classification, explainable AI with Grad‑CAM.
+- **🔐 AI Cybersecurity** – phishing detection, threat‑intelligence platforms, multilingual analysis.
+- **🌐 Full Stack Applications** – end‑to‑end web apps with React, Node.js, Express, and Firebase.
+- **📊 Data & Analytics** – data pipelines, dashboards, and visualisation with Python, SQL, MongoDB.
+- **🔬 Research & Experimentation** – prototyping novel ML pipelines, reproducible notebooks, and benchmarking.
 
 ---
 
@@ -134,16 +142,16 @@ I am currently open to collaborations on AI/ML projects, research initiatives, a
 <hr style="margin:1rem 0;" />
 
 <!-- ---------------------------------------------------------
-     FEATURED PROJECTS – actual repositories
+     BEST WORKS – real GitHub repos
 ---------------------------------------------------------- -->
-## 🚀 Featured Projects
+## 🚀 Best Works
 
-| Project | Description | Primary Tech | Demo / Animation |
-|---------|-------------|--------------|------------------|
-| **SCENESENSE‑AI‑AIML‑PROJECT‑** | AI‑powered scene classification and travel‑recommendation system with explainable AI using Grad‑CAM. | Python, TensorFlow/Keras, EfficientNetB0, OpenCV, Machine Learning | <a href="https://github.com/SUBRAHMANYA2726/SCENESENSE-AI-AIML-PROJECT-" target="_blank"><img src="https://media.giphy.com/media/l0HlBWGx0Z5lqG5VK/giphy.gif" width="120" alt="SceneSense AI GIF" /></a> |
-| **Multilingual‑Phishing‑Threat‑Intelligence‑Hub** | AI‑powered multilingual phishing detection & threat‑intelligence platform. | Python, Machine Learning, NLP, TensorFlow, Web Technologies | <a href="https://github.com/SUBRAHMANYA2726/Multilingual-Phishing-Threat-Intelligence-Hub" target="_blank"><img src="https://media.giphy.com/media/3o6Zt38wKaxFmY5Mi0/giphy.gif" width="120" alt="Phishing GIF" /></a> |
-| **SKILL‑BRIDGE‑AI‑** | AI‑powered platform connecting skills with learning & career opportunities. | Python, Machine Learning, NLP, React.js, Node.js, MongoDB | <a href="https://github.com/SUBRAHMANYA2726/SKILL-BRIDGE-AI-" target="_blank"><img src="https://media.giphy.com/media/SMINqJ8Jmay6M/giphy.gif" width="120" alt="Skill‑Bridge GIF" /></a> |
-| **MY‑PORTFOLIO** | Personal portfolio website built with TypeScript, React & Firebase. | TypeScript, React, Firebase | <a href="https://github.com/SUBRAHMANYA2726/MY-PORTFOLIO" target="_blank"><img src="https://media.giphy.com/media/3o6Zt217t4E0e8R5IK/giphy.gif" width="120" alt="Portfolio GIF" /></a> |
+| Project | Description | Highlights | Tech Badges | Links |
+|---|---|---|---|---|
+| **SceneSense AI** | AI‑powered scene classification and travel‑recommendation system using EfficientNetB0 and explainable AI with Grad‑CAM. | Computer Vision, Transfer Learning, EfficientNetB0, Grad‑CAM, Explainable AI, Travel Recommendation | <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/><img src="https://img.shields.io/badge/OpenCV-009688?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a> | [GitHub](https://github.com/SUBRAHMANYA2726/SCENESENSE-AI-AIML-PROJECT-) |
+| **Multilingual Phishing Threat Intelligence Hub** | AI‑powered multilingual phishing detection and threat‑intelligence platform. | Cybersecurity, Machine Learning, NLP, Multilingual AI, Threat Intelligence | <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/><img src="https://img.shields.io/badge/NLTK-0297A7?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/></a> | [GitHub](https://github.com/SUBRAHMANYA2726/Multilingual-Phishing-Threat-Intelligence-Hub) |
+| **SKILL‑BRIDGE‑AI‑** | AI‑powered platform designed to connect skills with learning and career opportunities. | AI, Machine Learning, NLP, Full Stack Development, Career Intelligence | <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a> | [GitHub](https://github.com/SUBRAHMANYA2726/SKILL-BRIDGE-AI-) |
+| **MY‑PORTFOLIO** | Personal developer portfolio website built with TypeScript, React & Firebase. | Full Stack, TypeScript, React, Firebase | <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/></a> | [GitHub](https://github.com/SUBRAHMANYA2726/MY-PORTFOLIO) |
 
 ---
 
@@ -231,7 +239,7 @@ I am currently open to collaborations on AI/ML projects, research initiatives, a
 ---
 
 <!-- ---------------------------------------------------------
-     FOOTER – animated GIF
+     ANIMATED FOOTER
 ---------------------------------------------------------- -->
 <footer style="margin-top:3rem; padding-top:1rem; border-top:1px solid #e1e4e8; color:#666; font-size:0.85rem;">
   <a href="https://github.com/SUBRAHMANYA2726" target="_blank">
