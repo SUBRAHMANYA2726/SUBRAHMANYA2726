@@ -14,10 +14,10 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Set up Python (needed by the snake action)
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11
+          python-version: '3.11'
 
       - name: Install contribution‑snake
         run: pip install gh‑contribution‑snake
@@ -25,7 +25,6 @@ jobs:
       - name: Generate SVG
         run: |
           python - <<'PY'
-          import os, sys
           from gh_contribution_snake.snake import create_snake
           create_snake(
               username="SUBRAHMANYA2726",

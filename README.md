@@ -1,24 +1,25 @@
 <!--
-  This file generates a *highly‑animated* GitHub profile README.
-  It uses only GitHub‑compatible HTML/SVG and reliable external services.
-  No JavaScript is embedded.
+  Animated GitHub profile README – real visible animations
+  Uses only GitHub‑compatible SVG/GIF, <marquee>, GitHub Actions and reliable services.
+  No JavaScript, no stripped CSS.
 -->
 
 <!-- ---------------------------------------------------------
-     HERO – animated typing SVG (readme‑typing.vercel.app)
+     HERO – animated typing SVG
 ---------------------------------------------------------- -->
 <div align="center">
 
-  <!-- Name + tagline -->
-  <h1 sublink="true" style="font-size:2.6rem; font-weight:800; letter-spacing:1px; margin-bottom:0.2rem;">
+  <!-- Name -->
+  <h1 style="font-size:2.6rem; font-weight:800; letter-spacing:1px; margin-bottom:0.2rem;">
     Subrahmanya Manjunatha Bhat
   </h1>
 
+  <!-- Tagline -->
   <h3 style="font-weight:600; color:#666; margin-top:0.1rem;">
     AI/ML Developer | Full Stack Developer | Researcher | Building Intelligent Solutions
   </h3>
 
-  <!-- Animated typing SVG – this service renders a smooth “typing” GIF/SVG -->
+  <!-- Typing animation – readme‑typing.vercel.app produces a real animated SVG that cycles -->
   <a href="https://github.com/SUBRAHMANYA2726">
     <img
       src="https://readme-typing.vercel.app?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=FF6B6B&center=true&random=false&width=435&height=70&lines=AI%2FML%20Developer%0AFull%20Stack%20Developer%0AMachine%20Learning%20Researcher%0A%22AI%22%20Engineer%0ASoftware%20Developer"
@@ -27,7 +28,7 @@
     />
   </a>
 
-  <!-- Social buttons – simple text‑links with shields (GitHub‑friendly) -->
+  <!-- Social buttons – shields.io badges (animated GIFs where applicable) -->
   <div style="margin-top:1rem;">
     <a href="https://github.com/SUBRAHMANYA2726" style="margin-right:1rem;">
       <img
@@ -47,7 +48,6 @@
         alt="Portfolio"
       />
     </a>
-    <!-- LeetCode / Codeforces placeholders – replace when you have accounts -->
     <a href="https://leetcode.com/" target="_blank" style="margin-right:1rem;">
       <img
         src="https://img.shields.io/badge/LeetCode-FSLHW2?style=for-the-badge&logo=leetcode&logoColor=yellow"
@@ -99,74 +99,56 @@ I am currently open to collaborations on AI/ML projects, research initiatives, a
 ---
 
 <!-- ---------------------------------------------------------
-     TECH STACK – scrolling marquee (CSS animation)
-     GitHub strips <style> blocks, so the animation is placed
-     inside an inline‑style <span> that uses @keyframes from a
-     GitHub‑compatible SVG embed. The marquee simply scrolls the
-     tech‑badge tokens across the screen.
+     TECHNOLOGY MARQUEE (real scrolling via <marquee>)
 ---------------------------------------------------------- -->
 ## 🛠️ Tech Stack
 
-<div style="overflow:hidden; white-space:nowrap; background:#fafafa; padding:0.8rem; border-radius:8px; margin:0.5rem 0;">
-  <span style="
-      display:inline-block;
-      animation: scroll 20s linear infinite;
-      font-size:0.85rem;
-      color:#24292e;
-  ">
-    <span style="margin-right:1.2rem;">🐍 Python</span>
-    <span style="margin-right:1.2rem;">⚙️ C</span>
-    <span style="margin-right:1.2rem;">🔺 C++</span>
-    <span style="margin-right:1.2rem;">☕ Java</span>
-    <span style="margin-right:1.2rem;">🟦 JavaScript</span>
-    <span style="margin-right:1.2rem;">🌐 HTML5</span>
-    <span style="margin-right:1.2rem;">🎨 CSS3</span>
-    <span style="margin-right:1.2rem;">⚛️ React</span>
-    <span style="margin-right:1.2rem;">🟢 Node.js</span>
-    <span style="margin-right:1.2rem;">🟫 Express</span>
-    <span style="margin-right:1.2rem;">🟦 TensorFlow</span>
-    <span style="margin-right:1.2rem;">🟪 Keras</span>
-    <span style="margin-right:1.2rem;">🟫 PyTorch</span>
-    <span style="margin-right:1.2rem;">🟫 Scikit‑learn</span>
-    <span style="margin-right:1.2rem;">🟢 OpenCV</span>
-    <span style="margin-right:1.2rem;">🟡 Hugging Face</span>
-    <span style="margin-right:1.2rem;">🟦 NumPy</span>
-    <span style="margin-right:1.2rem;">🟫 Pandas</span>
-    <span style="margin-right:1.2rem;">🟦 MySQL</span>
-    <span style="margin-right:1.2rem;">🍃 MongoDB</span>
-    <span style="margin-right:1.2rem;">🟦 Firebase</span>
-    <span style="margin-right:1.2rem;">🐋 Docker</span>
-    <span style="margin-right:1.2rem;">🟦 Git</span>
-    <span style="margin-right:1.2rem;">🟪 GitHub</span>
-    <span style="margin-right:1.2rem;">🟢 VS Code</span>
-    <span style="margin-right:1.2rem;">📓 Jupyter</span>
-    <span style="margin-right:1.2rem;">🟢 Google Colab</span>
-  </span>
-</div>
+<p style="white-space: nowrap; overflow-x: auto;">
+<marquee behavior="left" direction="left" scrollamount="5" style="font-size:0.9rem; ">
+  <span>🐍 Python</span>
+  <span>⚙️ C</span>
+  <span>🔺 C++</span>
+  <span>☕ Java</span>
+  <span>🟦 JavaScript</span>
+  <span>🌐 HTML</span>
+  <span>🎨 CSS</span>
+  <span>⚛️ React</span>
+  <span>🟢 Node.js</span>
+  <span>🟫 Express</span>
+  <span>🟦 TensorFlow</span>
+  <span>🟪 Keras</span>
+  <span>🟫 PyTorch</span>
+  <span>🟫 Scikit‑learn</span>
+  <span>🟢 OpenCV</span>
+  <span>🟡 Hugging Face</span>
+  <span>🟦 NumPy</span>
+  <span>🟫 Pandas</span>
+  <span>🟦 MySQL</span>
+  <span>🍃 MongoDB</span>
+  <span>🟦 Docker</span>
+  <span>🟦 Git</span>
+  <span>🟪 GitHub</span>
+</marquee>
+</p>
 
-<style>
-  @keyframes scroll {
-    0%   { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
-  }
-</style>
+<hr style="margin:1rem 0;" />
 
 <!-- ---------------------------------------------------------
-     FEATURED PROJECTS – use actual repos from your GitHub
+     FEATURED PROJECTS – actual repositories
 ---------------------------------------------------------- -->
 ## 🚀 Featured Projects
 
-| Project | Description | Primary Tech | Links |
-|---------|-------------|--------------|-------|
-| **SCENESENSE‑AI‑AIML‑PROJECT‑** | AI‑powered scene classification and travel‑recommendation system with explainable AI using Grad‑CAM. | Python, TensorFlow/Keras, EfficientNetB0, OpenCV, Machine Learning | GitHub: [SCENESENSE‑AI‑AIML‑PROJECT‑](https://github.com/SUBRAHMANYA2726/SCENESENSE-AI-AIML-PROJECT-) · Demo: *[coming soon]* |
-| **Multilingual‑Phishing‑Threat‑Intelligence‑Hub** | AI‑powered multilingual phishing detection & threat‑intelligence platform. | Python, Machine Learning, NLP, TensorFlow, Web Technologies | GitHub: [Multilingual‑Phishing‑Threat‑Intelligence‑Hub](https://github.com/SUBRAHMANYA2726/Multilingual-Phishing-Threat-Intelligence-Hub) · Demo: *[coming soon]* |
-| **SKILL‑BRIDGE‑AI‑** | AI‑powered platform connecting skills with learning & career opportunities. | Python, Machine Learning, NLP, React.js, Node.js, MongoDB | GitHub: [SKILL‑BRIDGE‑AI‑](https://github.com/SUBRAHMANYA2726/SKILL-BRIDGE-AI-) · Demo: *[coming soon]* |
-| **MY‑PORTFOLIO** | Personal portfolio website built with TypeScript, React & Firebase. | TypeScript, React, Firebase | GitHub: [MY‑PORTFOLIO](https://github.com/SUBRAHMANYA2726/MY-PORTFOLIO) · Live: [my‑portfolio‑jn1z.vercel.app](https://my-portfolio-jn1z.vercel.app/) |
+| Project | Description | Primary Tech | Demo / Animation |
+|---------|-------------|--------------|------------------|
+| **SCENESENSE‑AI‑AIML‑PROJECT‑** | AI‑powered scene classification and travel‑recommendation system with explainable AI using Grad‑CAM. | Python, TensorFlow/Keras, EfficientNetB0, OpenCV, Machine Learning | <a href="https://github.com/SUBRAHMANYA2726/SCENESENSE-AI-AIML-PROJECT-" target="_blank"><img src="https://media.giphy.com/media/l0HlBWGx0Z5lqG5VK/giphy.gif" width="120" alt="SceneSense AI GIF" /></a> |
+| **Multilingual‑Phishing‑Threat‑Intelligence‑Hub** | AI‑powered multilingual phishing detection & threat‑intelligence platform. | Python, Machine Learning, NLP, TensorFlow, Web Technologies | <a href="https://github.com/SUBRAHMANYA2726/Multilingual-Phishing-Threat-Intelligence-Hub" target="_blank"><img src="https://media.giphy.com/media/3o6Zt38wKaxFmY5Mi0/giphy.gif" width="120" alt="Phishing GIF" /></a> |
+| **SKILL‑BRIDGE‑AI‑** | AI‑powered platform connecting skills with learning & career opportunities. | Python, Machine Learning, NLP, React.js, Node.js, MongoDB | <a href="https://github.com/SUBRAHMANYA2726/SKILL-BRIDGE-AI-" target="_blank"><img src="https://media.giphy.com/media/SMINqJ8Jmay6M/giphy.gif" width="120" alt="Skill‑Bridge GIF" /></a> |
+| **MY‑PORTFOLIO** | Personal portfolio website built with TypeScript, React & Firebase. | TypeScript, React, Firebase | <a href="https://github.com/SUBRAHMANYA2726/MY-PORTFOLIO" target="_blank"><img src="https://media.giphy.com/media/3o6Zt217t4E0e8R5IK/giphy.gif" width="120" alt="Portfolio GIF" /></a> |
 
 ---
 
 <!-- ---------------------------------------------------------
-     GITHUB STATS – animated via Vercel service
+     GITHUB STATISTICS – dynamic via Vercel service
 ---------------------------------------------------------- -->
 ## 📊 GitHub Statistics
 
@@ -187,6 +169,17 @@ I am currently open to collaborations on AI/ML projects, research initiatives, a
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/SUBRAHMANYA2726?tab=streak">
+    <img
+      src="https://github-readme-stats.vercel.app/api/animation?username=SUBRAHMANYA2726&theme=radical&hide_border=true"
+      alt="GitHub streak"
+    />
+  </a>
+</p>
+
+---
+
 <!-- ---------------------------------------------------------
      CONTRIBUTION SNAKE – generated by GitHub Actions
 ---------------------------------------------------------- -->
@@ -197,12 +190,12 @@ I am currently open to collaborations on AI/ML projects, research initiatives, a
     <img
       src="https://github.com/SUBRAHMANYA2726/SUBRAHMANYA2726/contribution-snake.svg"
       alt="Contribution Snake"
-      style="max-width:250px; border:1px solid #e1e4e8; border-radius:8px;"
+      style="max-width:260px; border:1px solid #e1e4e8; border-radius:8px;"
     />
   </a>
 </p>
 
-*How it works:* a **GitHub Actions** workflow (`.github/workflows/snake.yml`) runs every day, pulls your contribution graph and regenerates `contribution-snake.svg`. The image above is that automatically‑generated file, so it always stays up‑to‑date.
+*Generated daily by the GitHub Actions workflow (`.github/workflows/snake.yml`).*
 
 ---
 
@@ -238,8 +231,15 @@ I am currently open to collaborations on AI/ML projects, research initiatives, a
 ---
 
 <!-- ---------------------------------------------------------
-     FOOTER
+     FOOTER – animated GIF
 ---------------------------------------------------------- -->
 <footer style="margin-top:3rem; padding-top:1rem; border-top:1px solid #e1e4e8; color:#666; font-size:0.85rem;">
-  Building, learning, and researching one project at a time.
+  <a href="https://github.com/SUBRAHMANYA2726" target="_blank">
+    <img
+      src="https://media.giphy.com/media/3o6Zt38wKaxFmY5Mi0/giphy.gif"
+      width="100"
+      alt="Footer animation"
+      style="vertical-align:middle;"
+    />
+  </a> Building, learning, and researching one project at a time.
 </footer>
