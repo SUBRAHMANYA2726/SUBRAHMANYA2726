@@ -1,217 +1,193 @@
-# Waving Header
-
-<a href="https://c.dev/api/users/SUBRAHMANYA2726?type=waving&anime=true&githubUsername=SUBRAHMANYA2726&accent=7dd3fc&fontColor=0c0c0d">
-  <img src="https://c.dev/api/users/SUBRAHMANYA2726?type=waving&anime=true&githubUsername=SUBRAHMANYA2726&accent=7dd3fc&fontColor=0c0c0d" width="400" alt="Waving capsule header" />
+# <!-- C.Dev Wave Header -->
+<a href="https://github.com/SUBRAHMANYA2726">
+  <img src="https://c.dev/api/users/SUBRAHMANYA2726?type=waving&anime=true&githubUsername=SUBRAHMANYA2726&accent=7dd3fc&fontColor=0c0c0d"
+       width="430" alt="Waving capsule header" style="vertical-align:middle; border:none; box-shadow:none;" />
 </a>
 
-<br />
+<br /><br />
 
-<!-- Typing animation -->
-<div align="center">
-  <a href="https://readme-typing.vercel.app">
-    <img src="https://readme-typing.vercel.app?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=FF6B6B&center=true&random=false&width=435&height=70&lines=AI%2FML+Developer%0AResearcher%0AComputer+Science+Student%0A%22AI%22+Engineer%0ASoftware+Developer" alt="Typing animation" />
-  </a>
-</div>
-
-<hr />
-
-<!-- Profile stats -->
-## 📈 Profile & Stats
-
+<!-- Typing Animation -->
 <p align="center">
-  <!-- Profile view counter -->
-  <a href="https://github.com/SUBRAHMANYA2726">
-    <img src="https://komarev.com/ghpvc/?username=SUBRAHMANYA2726&color=blue&style=for-the-badge" alt="Profile views" />
-  </a>
-  <!-- Follower count -->
-  <a href="https://github.com/SUBRAHMANYA2726?tab=followers">
-    <img src="https://img.shields.io/github/followers/SUBRAHMANYA2726?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" />
-  </a>
+  <img
+    src="https://readme-typing.vercel.app?font=Fira+Code&weight=500&size=24&duration=2200&pause=1000&color=FF6B6B&center=true&random=false&width=435&height=80&lines=AI%2FML+Developer%0AResearcher%0AComputer+Science+Student%0A%22AI%22+Engineer%0ABuilding+Intelligent+Systems"
+    alt="Animated typing"
+    style="vertical-align:middle; margin:0 auto; display:block;" />
 </p>
 
-<hr />
+<hr style="margin:1.5rem 0; border:0; border-top:1px solid #3e3e4e;" />
 
-<!-- Who I Am -->
-## 🧑‍💻 Who I Am
 
-```typescript
-const me = {
-  title: "AI/ML Developer | Researcher | Computer Science Student",
-  stack: [
-    "Languages: Python, C, C++, Java, JavaScript",
-    "AI/ML: Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI",
-    "Frameworks: TensorFlow, PyTorch, Scikit-learn, OpenCV",
-    "Web: HTML, CSS, JavaScript, React, Node.js",
-    "Backend: Python, Flask, FastAPI, REST APIs",
-    "Databases: MySQL, PostgreSQL, MongoDB",
-    "Tools: Git, GitHub, VS Code, Jupyter, Docker",
-    "Hardware/IoT: ESP32, Arduino, Embedded Systems",
-    "Other: Research, AI model development, cybersecurity, automation"
-  ],
-  launchedProjects: [
-    "SCENESENSE-AI-AIML-PROJECT-",
-    "Multilingual-Phishing-Threat-Intelligence-Hub"
-  ],
-  certifications: [],
-  status: "Open to opportunities in AI/ML and Full‑Stack development",
-  openTo: ["Full‑Stack AI roles", "Research internships", "Freelance AI projects"]
-};
-```
+<!-- 👋 ABOUT ME SECTION -->
+<table align="center" width="100%" style="max-width:680px; background:#1e1e2f; border-radius:12px; padding:2rem 1.5rem; margin:1rem 0; border:1px solid #3a3a4e;">
+  <tr>
+    <td style="color:#f8f8f2; font-size:1rem; line-height:1.6;">
+      <strong>AI/ML Developer & Researcher</strong><br />
+      I build intelligent systems that combine AI, computer vision, cybersecurity and automation. I'm currently a Computer Science Student exploring generative models, explainable AI, and threat‑intelligence platforms. My passion is turning research‑level ideas into practical, production‑ready applications.
+    </td>
+  </tr>
+</table>
 
-<hr />
+<hr style="margin:1.5rem 0; border:0; border-top:1px solid #3e3e4e;" />
 
-<!-- Featured Projects -->
-## 🚀 Featured Projects
 
-### 1️⃣ SCENESENSE‑AI‑AIML‑PROJECT‑
+<!-- 📊 VISUAL STATUS PANEL -->
+<table align="center" width="100%" style="max-width:680px; background:#1e1e2f; border-radius:12px; padding:1rem 1.5rem; margin:1rem 0;">
+  <tr>
+    <td style="width:33%; vertical-align:top; color:#f8f8f2;">
+      <strong>🤖 AI / ML</strong><br />
+      Building intelligent systems<br />
+      <sub>• Machine Learning • Deep Learning • Generative AI</sub>
+    </td>
+    <td style="width:33%; vertical-align:top; color:#f8f8f2;">
+      <strong>🔬 Research</strong><br />
+      Exploring new ideas<br />
+      <sub>• AI Research • Explainable AI • Threat Intelligence</sub>
+    </td>
+    <td style="width:33%; vertical-align:top; color:#f8f8f2;">
+      <strong>🛡 Security</strong><br />
+      Threat detection & intelligence<br />
+      <sub>• Cybersecurity • Phishing Detection • Automation</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/SUBRAHMANYA2726/SCENESENSE-AI-AIML-PROJECT-">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=SUBRAHMANYA2726&repo=SCENESENSE-AI-AIML-PROJECT-&theme=radical&show_icons=true&branch=master&count_private=false&layout=compact&text_color=fff" alt="SceneSense AI stats" />
-  </a>
-</p>
+<hr style="margin:1.5rem 0; border:0; border-top:1px solid #3e3e4e;" />
 
-**Description:** EfficientNet‑based scene classification with Grad‑CAM explainability and an intelligent travel‑recommendation system.
 
-**Tech Stack:**
+<!-- 🚀 WHAT I BUILD SECTION -->
+<table align="center" width="100%" style="max-width:680px; background:#1e1e2f; border-radius:12px; padding:1rem 1.5rem; margin:1rem 0;">
+  <tr>
+    <td style="width:20%; vertical-align:top; color:#f8f8f2; font-size:0.9rem;">
+      <strong>🤖 AI SYSTEMS</strong><br />
+      Machine learning and intelligent applications<br />
+      <sub>• TensorFlow • PyTorch • Scikit-learn</sub>
+    </td>
+    <td style="width:20%; vertical-align:top; color:#f8f8f2;">
+      <strong>👁 COMPUTER VISION</strong><br />
+      Visual understanding and explainable AI<br />
+      <sub>• OpenCV • EfficientNet • Grad-CAM</sub>
+    </td>
+    <td style="width:20%; vertical-align:top; color:#f8f8f2;">
+      <strong>🛡 CYBERSECURITY</strong><br />
+      Threat detection and intelligence systems<br />
+      <sub>• Phishing Detection • Threat Intel • NLP</sub>
+    </td>
+    <td style="width:20%; vertical-align:top; color:#f8f8f2;">
+      <strong>🌐 AI APPLICATIONS</strong><br />
+      Full‑stack AI‑powered applications<br />
+      <sub>• Flask • FastAPI • REST APIs</sub>
+    </td>
+    <td style="width:20%; vertical-align:top; color:#f8f8f2;">
+      <strong>🔬 RESEARCH</strong><br />
+      Experimentation, analysis and applied AI research<br />
+      <sub>• Multilingual AI • Embedded AI • Automation</sub>
+    </td>
+  </tr>
+</table>
 
-| Layer | Technology |
-|-------|------------|
-| Language | Python |
-| ML Framework | TensorFlow, Keras |
-| DL Model | EfficientNetB0 |
-| Explainability | Grad‑CAM |
-| Recommendation | Custom content‑based filter |
+<hr style="margin:1.5rem 0; border:0; border-top:1px solid #3e3e4e;" />
 
-**Links:**
-- **GitHub:** https://github.com/SUBRAHMANYA2726/SCENESENSE-AI-AIML-PROJECT-
-- **Demo:** *(no live demo hosted)* 
 
----
+<!-- 🛠️ TECH STACK -->
+<table align="center" width="100%" style="max-width:680px; background:#1e1e2f; border-radius:12px; padding:1rem 1.5rem; margin:1rem 0;">
+  <tr>
+    <td style="color:#7dd3fc; font-size:0.85rem; font-weight:bold; padding-bottom:0.5rem;"> Languages </td>
+    <td style="color:#7dd3fc; font-size:0.85rem; font-weight:bold; padding-bottom:0.5rem;"> AI / ML </td>
+    <td style="color:#7dd3fc; font-size:0.85rem; font-weight:bold; padding-bottom:0.5rem;"> Computer Vision </td>
+    <td style="color:#7dd3fc; font-size:0.85rem; font-weight:bold; padding-bottom:0.5rem;"> Web </td>
+    <td style="color:#7dd3fc; font-size:0.85rem; font-weight:bold; padding-bottom:0.5rem;"> Backend </td>
+    <td style="color:#7dd3fc; font-size:0.85rem; font-weight:bold; padding-bottom:0.5rem;"> Databases </td>
+    <td style="color:#7dd3fc; font-size:0.85rem; font-weight:bold; padding-bottom:0.5rem;"> Tools </td>
+    <td style="color:#7dd3fc; font-size:0.85rem; font-weight:bold; padding-bottom:0.5rem;"> Hardware </td>
+    <td style="color:#7dd3fc; font-size:0.85rem; font-weight:bold; padding-bottom:0.5rem;"> Cybersecurity </td>
+  </tr>
+  <tr>
+    <td style="color:#c9d1d1; font-size:0.8rem;"> Python • C • C++ • Java • JavaScript</td>
+    <td style="color:#c9d1d1; font-size:0.83rem;"> TensorFlow • PyTorch • Scikit-learn</td>
+    <td style="color:#c9d1d1; font-size:0.83rem;"> OpenCV • EfficientNet • Grad-CAM</td>
+    <td style="color:#c9d1d1; font-size:0.83rem;"> HTML • CSS • JavaScript • React • Node.js</td>
+    <td style="color:#c9d1d1; font-size:0.83rem;"> Flask • FastAPI • REST APIs</td>
+    <td style="color:#c9d1d1; font-size:0.83rem;"> MySQL • PostgreSQL • MongoDB</td>
+    <td style="color:#c9d1d1; font-size:0.83rem;"> Git • GitHub • Docker • Jupyter</td>
+    <td style="color:#c9d1d1; font-size:0.83rem;"> ESP32 • Arduino • Embedded Systems</td>
+    <td style="color:#c9d1d1; font-size:0.83rem;"> Threat Intelligence • Phishing Detection • Security Automation</td>
+  </tr>
+</table>
 
-### 2️⃣ Multilingual‑Phishing‑Threat‑Intelligence‑Hub
+<hr style="margin:1.5rem 0; border:0; border-top:1px solid #3e3e4e;" />
 
-<p align="center">
-  <a href="https://github.com/SUBRAHMANYA2726/Multilingual-Phishing-Threat-Intelligence-Hub">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=SUBRAHMANYA2726&repo=Multilingual-Phishing-Threat-Intelligence-Hub&theme=radical&show_icons=true&branch=master&count_private=false&layout=compact&text_color=fff" alt="Phishing Hub stats" />
-  </a>
-</p>
 
-**Description:** AI‑powered multilingual phishing detection and threat‑intelligence platform.
+<!-- 🚀 FEATURED PROJECTS -->
+<table align="center" width="100%" style="max-width:680px; background:#1e1e2f; border-radius:12px; padding:1rem 1.5rem; margin:1rem 0;">
+  <tr>
+    <td style="width:50%; vertical-align:top; color:#f8f8f2; font-size:0.9rem;">
+      <strong>🚀 SCENESENSE‑AI‑AIML‑PROJECT‑</strong><br />
+      AI‑powered scene classification and travel recommendation system.<br />
+      <sub>EfficientNet • Computer Vision • Grad‑CAM • Explainable AI</sub><br />
+      <a href="https://github.com/SUBRAHMANYA2726/SCENESENSE-AI-AIML-PROJECT-" target="_blank"
+         style="color:#7dd3fc; text-decoration:underline;">View Project →</a>
+    </td>
+    <td style="width:50%; vertical-align:top; color:#f8f8f2; font-size:0.9rem;">
+      <strong>🛡 Multilingual‑Phishing‑Threat‑Intelligence‑Hub</strong><br />
+      Multilingual phishing detection and threat‑intelligence platform.<br />
+      <sub>AI • Cybersecurity • NLP • Threat Intel</sub><br />
+      <a href="https://github.com/SUBRAHMANYA2726/Multilingual-Phishing-Threat-Intelligence-Hub" target="_blank"
+         style="color:#7dd3fc; text-decoration:underline;">View Project →</a>
+    </td>
+  </tr>
+</table>
 
-**Tech Stack:**
+<hr style="margin:1.5rem 0; border:0; border-top:1px solid #3e3e4e;" />
 
-| Layer | Technology |
-|-------|------------|
-| Language | Python |
-| ML Framework | TensorFlow, Scikit‑learn |
-| NLP | NLTK, spaCy |
-| Deployment | Flask, FastAPI |
 
-**Links:**
-- **GitHub:** https://github.com/SUBRAHMANYA2726/Multilingual-Phishing-Threat-Intelligence-Hub
-- **Demo:** *(no live demo hosted)* 
-
-<hr />
-
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
-
-<div align="center">
-  <!-- Skillicons rows grouped by category -->
-  <p><strong>Languages</strong></div>
-  <div align="center">
-    <img src="https://skillicons.dev/icons/python.svg" height="32" alt="Python" />
-    <img src="https://skillicons.dev/icons/c.svg" height="32" alt="C" />
-    <img src="https://skillicons.dev/icons/cplusplus.svg" height="32" alt="C++" />
-    <img src="https://skillicons.dev/icons/java.svg" height="32" alt="Java" />
-    <img src="https://skillicons.dev/icons/javascript.svg" height="32" alt="JavaScript" />
-  </div>
-
-  <p><strong>AI/ML & Data Science</strong></div>
-  <div align="center">
-    <img src="https://skillicons.dev/icons/tensorflow.svg" height="32" alt="TensorFlow" />
-    <img src="https://skillicons.dev/icons/pytorch.svg" height="32" alt="PyTorch" />
-    <img src="https://skillicons.dev/icons/scikit_learn.svg" height="32" alt="Scikit-learn" />
-    <img src="https://skillicons.dev/icons/opencv.svg" height="32" alt="OpenCV" />
-    <img src="https://skillicons.dev/icons/numpy.svg" height="32" alt="NumPy" />
-  </div>
-
-  <p><strong>Web & Backend</strong></div>
-  <div align="center">
-    <img src="https://skillicons.dev/icons/html5.svg" height="32" alt="HTML5" />
-    <img src="https://skillicons.dev/icons/css3.svg" height="32" alt="CSS3" />
-    <img src="https://skillicons.dev/icons/react.svg" height="32" alt="React" />
-    <img src="https://skillicons.dev/icons/nodejs.svg" height="32" alt="Node.js" />
-    <img src="https://skillicons.dev/icons/flask.svg" height="32" alt="Flask" />
-    <img src="https://skillicons.dev/icons/fastapi.svg" height="32" alt="FastAPI" />
-  </div>
-
-  <p><strong>Databases</strong></div>
-  <div align="center">
-    <img src="https://skillicons.dev/icons/mysql.svg" height="32" alt="MySQL" />
-    <img src="https://skillicons.dev/icons/postgresql.svg" height="32" alt="PostgreSQL" />
-    <img src="https://skillicons.dev/icons/mongodb.svg" height="32" alt="MongoDB" />
-  </div>
-
-  <p><strong>DevOps & Tools</strong></div>
-  <div align="center">
-    <img src="https://skillicons.dev/icons/git.svg" height="32" alt="Git" />
-    <img src="https://skillicons.dev/icons/github.svg" height="32" alt="GitHub" />
-    <img src="https://skillicons.dev/icons/docker.svg" height="32" alt="Docker" />
-    <img src="https://skillicons.dev/icons/jupyter.svg" height="32" alt="Jupyter" />
-    <img src="https://skillicons.dev/icons/vscode.svg" height="32" alt="VS Code" />
-  </div>
-</div>
-
-<hr />
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
+<!-- 📅 GITHUB STATISTICS -->
 <p align="center">
   <a href="https://github.com/SUBRAHMANYA2726">
-    <img src="https://github-readme-stats.vercel.app/api?username=SUBRAHMANYA2726&theme=radical&hide_border=true&show_icons=true&accent_color=7dd3fc&count_private=false&line_color=7dd3fc" height="160" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SUBRAHMANYA2726&theme=radical&hide_border=true&show_icons=true&accent_color=7dd3fc&count_private=false&line_color=7dd3fc"
+         height="140" alt="GitHub Stats" style="margin:0 1rem;" />
   </a>
   <a href="https://github.com/SUBRAHMANYA2726">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBRAHMANYA2726&theme=radical&hide_border=true&border_color=7dd3fc&background_color=1e1e2f&text_color=c9d1d1" height="160" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBRAHMANYA2726&theme=radical&hide_border=true&border_color=7dd3fc&background_color=1e1e2f&text_color=c9d1d1"
+         height="140" alt="Top Languages" style="margin:0 1rem;" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Streak stats -->
-  <a href="https://streak-stats.demolab.com">
-    <img src="https://streak-stats.demolab.com?user=SUBRAHMANYA2726&theme=radical&background=1e1e2f&stroke=7dd3fc&stroke_height=3" alt="Streak stats" />
+  <a href="https://github.com/SUBRAHMANYA2726?tab=streak">
+    <img src="https://streak-stats.demolab.com?user=SUBRAHMANYA2726&theme=radical&background=1e1e2f&stroke=7dd3fc&stroke_height=3"
+         alt="Streak Stats" style="margin:0 1rem;" />
   </a>
 </p>
 
-<hr />
+<hr style="margin:1.5rem 0; border:0; border-top:1px solid #3e3e4e;" />
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
 
+<!-- 🐍 CONTRIBUTION SNAKE -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SUBRAHMANYA2726&no-frame&no-bg&margin_w=14&no-logo=true" alt="Trophies" />
+  <a href="https://github.com/SUBRAHMANYA2726/SUBRAHMANYA2726/graphs/contributions">
+    <img src="https://github.com/SUBRAHMANYA2726/SUBRAHMANYA2726/contribution-snake.svg"
+         alt="Contribution Snake"
+         style="max-width:260px; border:1px solid #3e3e4e; border-radius:8px; background:#2a2a3e; padding:8px;" />
   </a>
 </p>
+<sub><a href="https://github.com/SUBRAHMANYA2726/SUBRAHMANYA2726/graphs/contributions">View contribution graph</a></sub>
 
-<hr />
+<hr style="margin:1.5rem 0; border:0; border-top:1px solid #3e3e4e;" />
 
-<!-- Contribution Graph -->
-## 📅 Contribution Graph
 
+<!-- 👀 PROFILE VIEWS -->
 <p align="center">
-  <a href="https://github.com/SUBRAHMANYA2726/SUBRAHMANYA2726/graphs/contribution">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUBRAHMANYA2726&bg=1e1e2f&line=7dd3fc&point=FF6B6B&area=true&area_color=7dd3fc&hide_border=true" alt="Contribution graph" />
+  <a href="https://github.com/SUBRAHMANYA2726">
+    <img src="https://komarev.com/ghpvc/?username=SUBRAHMANYA2726&color=blue&style=for-the-badge"
+         alt="Profile views"
+         style="vertical-align:middle; margin-right:0.5rem;" />
   </a>
 </p>
 
-<hr />
+<hr style="margin:1.5rem 0; border:0; border-top:1px solid #3e3e4e;" />
 
-<!-- Connect Section -->
-## 📫 Connect with Me
 
+<!-- 📫 CONNECT WITH ME -->
 <p align="center">
   <a href="https://github.com/SUBRAHMANYA2726">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -222,16 +198,20 @@ const me = {
   <a href="https://my-portfolio-jn1z.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio‑vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:subbumb06@gmail.com">
-    <img src="https://img.shields.io/badge/Email‑subbumb06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:submmb06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-submmb06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<hr />
+<hr style="margin:1.5rem 0; border:0; border-top:1px solid #3e3e4e;" />
 
-<!-- Waving Footer -->
 
+<!-- Wave Footer -->
 <a href="https://c.dev/api/users/SUBRAHMANYA2726?type=waving&anime=true&githubUsername=SUBRAHMANYA2726&accent=7dd3fc&fontColor=0c0c0d">
-  <img src="https://c.dev/api/users/SUBRAHMANYA2726?type=waving&anime=true&githubUsername=SUBRAHMANYA2726&accent=7dd3fc&fontColor=0c0c0d" width="400" alt="Waving capsule footer" />
+  <img src="https://c.dev/api/users/SUBRAHMANYA2726?type=waving&anime=true&githubUsername=SUBRAHMANYA2726&accent=7dd3fc&fontColor=0c0c0d"
+       width="430" alt="Waving footer" style="vertical-align:middle; border:none; box-shadow:none;" />
 </a>
+
+<br /><br />
+<sub style="color:#6e6e7a; display:block; text-align:center;">Building. Researching. Learning. Creating.</sub>
 </content>
